@@ -1,15 +1,24 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>All Posts - My New Hugo Site</title>
-        <link>https://4llysa.github.io/posts/</link>
-        <description>All Posts | My New Hugo Site</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 13 Jul 2023 11:29:50 &#43;0800</lastBuildDate><atom:link href="https://4llysa.github.io/posts/" rel="self" type="application/rss+xml" /><item>
-    <title>Thank you SSE!</title>
-    <link>https://4llysa.github.io/posts/myfirstpost/</link>
+        <title>All Posts - Allysa Tan Li Ying</title>
+        <link>https://www.allysa.org/posts/</link>
+        <description>All Posts | Allysa Tan Li Ying</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>allysaxtan@gmail.com (Allysa Tan)</managingEditor>
+            <webMaster>allysaxtan@gmail.com (Allysa Tan)</webMaster><lastBuildDate>Thu, 13 Jul 2023 11:29:50 &#43;0800</lastBuildDate><atom:link href="https://www.allysa.org/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Testing</title>
+    <link>https://www.allysa.org/posts/about/</link>
     <pubDate>Thu, 13 Jul 2023 11:29:50 &#43;0800</pubDate>
-    <author>xxxx</author>
-    <guid>https://4llysa.github.io/posts/myfirstpost/</guid>
-    <description><![CDATA[Hello World! This post is made possible by my friend sse.]]></description>
+    <author>Allysa Tan</author>
+    <guid>https://www.allysa.org/posts/about/</guid>
+    <description><![CDATA[Hello World! This blog is made possible by my friend sse.]]></description>
+</item>
+<item>
+    <title>Thank you SSE!</title>
+    <link>https://www.allysa.org/posts/myfirstpost/</link>
+    <pubDate>Thu, 13 Jul 2023 11:29:50 &#43;0800</pubDate>
+    <author>Allysa Tan</author>
+    <guid>https://www.allysa.org/posts/myfirstpost/</guid>
+    <description><![CDATA[Hello World! This blog is made possible by my friend sse.]]></description>
 </item>
 </channel>
 </rss>
